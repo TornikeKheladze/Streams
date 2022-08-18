@@ -1,0 +1,21 @@
+body {
+  margin: 2%;
+}
+
+/* .modal {
+  background-color: rgb(201, 105, 105);
+  position: absolute;
+  width: 30%;
+  height: 30%;
+  left: 35%;
+  top: 25%;
+  z-index: 500;
+}
+
+.backdrop {
+  position: fixed;
+  background-color: gray;
+  z-index: 200;
+  width: 100%;
+  height: 100%;
+} */
